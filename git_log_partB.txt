@@ -1,0 +1,65 @@
+commit 74f2e11387cef04f6e8e84e078b82915dba69f34
+Author: root <root@DESKTOP-61BRPFO.localdomain>
+Date:   Wed Mar 6 00:34:05 2024 +0530
+
+    Re-adding file2.txt
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..b85b010
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2026 Software Developer
+
+commit 7624bf0a299bf35f8da05a82c47c921e820608e8
+Author: root <root@DESKTOP-61BRPFO.localdomain>
+Date:   Wed Mar 6 00:24:41 2024 +0530
+
+    Deleting file2.txt
+
+diff --git a/file1.txt b/file1.txt
+index 3ca852c..49c16a7 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1,2 @@
+-Nikita Nair BT22CSE025
+\ No newline at end of file
++Nikita Nair BT22CSE025
++Pink
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index b85b010..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-2026 Software Developer
+
+commit 72fdd9aca9bada4804eae1c0c8ba34d44b0d6765
+Author: root <root@DESKTOP-61BRPFO.localdomain>
+Date:   Wed Mar 6 00:19:42 2024 +0530
+
+    Created file with graduation year and first job
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..b85b010
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2026 Software Developer
+
+commit 3f0ed785d8db07702165914b8fefd1eb4c97b041
+Author: root <root@DESKTOP-61BRPFO.localdomain>
+Date:   Tue Mar 5 23:26:41 2024 +0530
+
+    Committing a new file with my name
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..3ca852c
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1 @@
++Nikita Nair BT22CSE025
+\ No newline at end of file
